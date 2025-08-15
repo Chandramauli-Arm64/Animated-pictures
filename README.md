@@ -6,7 +6,7 @@ Welcome to the **Animated Pictures** repository! This project contains a collect
 To download all files, use:
 ```sh
 git clone https://github.com/Chandramauli-Arm64/Animated-pictures.git
-
+```
 
 ### See you again.
 
